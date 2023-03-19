@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="cursor_left" transform="translate(24) rotate(90)" fill="#fff">
+    <path d="M 23.19098472595215 23.5 L 0.8090149760246277 23.5 L 12 1.118029952049255 L 23.19098472595215 23.5 Z" stroke="none"/>
+    <path d="M 12 2.23607063293457 L 1.618034362792969 23 L 22.38196563720703 23 L 12 2.23607063293457 M 12 0 L 24 24 L 0 24 L 12 0 Z" stroke="none" fill="#707070"/>
+  </g>
+</svg>
